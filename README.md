@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onur Önel</h1>
 <h3 align="center">Computer Programming Student at Algonquin College</h3>
 
-<p align="center">
+<p align="center"
 
 - 🌱 I’m currently learning **Java and Database Systems**
 - 📫 How to reach me **onuronelca@gmail.com**
