@@ -36,7 +36,7 @@
             <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/></a> 
             <a href="https://www.cs.waikato.ac.nz/ml/weka/" target="_blank" rel="noreferrer"><img src="https://weka.sourceforge.io/logos/weka/Weka_icon_new.png" alt="weka" width="40" height="40"/></a>
             <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/></a> 
-            <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/></a> 
+            <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/eclipse-icon.png" alt="eclipse" width="40" height="40"/></a> 
         </td>
     </tr>
 </table>
