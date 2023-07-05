@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Onur Önel</h1>
 <p align="center">
-  <img src="https://your-image-url.com" alt="Profile Image" width="200" height="200">
+  <img src="https://i.ibb.co/7YrC39m/Whats-App-Image-2023-07-05-at-01-11-19.jpg" alt="Profile Image" width="200" height="200">
 </p>
 <h3 align="center">Computer Programming Student at Algonquin College</h3>
 
