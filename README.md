@@ -14,7 +14,7 @@
 <a href="https://instagram.com/onurqnel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onurqnel" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages, Tools, and IDEs:</h3>
+<h3 align="center">Languages           Tools        IDE's:</h3>
 <table align="center">
     <tr>
         <td align="center">
