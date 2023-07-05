@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Onur Önel</h1>
-<h3 align="center">Computer Programming Student at Algonquin College</h3>
+<h1 align="center">Hey!👋, I'm Onur</h1>
+<h3 align="center">Currently I am a Computer Programming Student at Algonquin College Ottawa Ontario</h3>
 
 <p align="center">
 - 🌱 I’m currently learning <strong>Java and Database Systems</strong><br>
