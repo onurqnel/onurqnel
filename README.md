@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onur Önel</h1>
+<p align="center">
+  <img src="https://your-image-url.com" alt="Profile Image" width="200" height="200">
+</p>
 <h3 align="center">Computer Programming Student at Algonquin College</h3>
 
 <p align="center">
