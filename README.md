@@ -3,9 +3,9 @@
 
 <p align="center"
 
-- 🌱 I’m currently learning **Java and Database Systems**
-- 📫 How to reach me **onuronelca@gmail.com**
-- ⚡ Fun fact **Better basketball player than a developer :D**
+            - 🌱 I’m currently learning **Java and Database Systems**
+            - 📫 How to reach me **onuronelca@gmail.com**
+            - ⚡ Fun fact **Better basketball player than a developer :D**
 
 </p>
 
