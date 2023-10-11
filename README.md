@@ -39,7 +39,7 @@
         </td>
         <td align="center">
             <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
-            <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"><img src="LINK_TO_CLION_ICON" alt="clion" width="40" height="40"/></a> 
+            <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" alt="clion" width="40" height="40"/></a> 
             <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/></a> 
             <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://yt3.googleusercontent.com/ytc/AL5GRJWZmqDfhQQI3dgTnZNxj5DDETFTW2y7fa7W2UfF4w=s900-c-k-c0x00ffffff-no-rj" alt="intellij" width="40" height="40"/></a> 
             <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/eclipse-icon.png" alt="eclipse" width="40" height="40"/></a> 
