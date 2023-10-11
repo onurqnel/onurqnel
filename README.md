@@ -3,8 +3,8 @@
 <h3 align="center">Ottawa, ON, Canada</h3>
 
 <p align="center">
-- 🌱 I’m learning <strong>Java and Database Systems</strong><br>
-- 📫 You can reach me at <strong>onuronelca@gmail.com</strong><br>
+- 🌱 I’m learning <strong>Java, C++ and Database Systems</strong><br>
+- 📫 You can reach me at <strong>onur.onel2230@outlook.com</strong><br>
 - ⚡ Fun fact is <strong>I'm a better basketball player than a developer :D</strong>
 </p>
 
